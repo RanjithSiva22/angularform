@@ -1,0 +1,32 @@
+#but{
+    margin-left:33%;
+}
+
+#form{
+    margin-bottom: 50px;
+}
+#District_Name,#Area,#Population{
+    margin-left: 30px;
+    background-color: grey;
+}
+
+#div {
+    border-width:4px;  
+    border-style:solid;
+    padding:40px 40px;
+    width:50%;
+    margin-left:25%;
+}
+
+#radio{
+    border-width:2px;  
+    border-style:solid;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 5px 5px;
+}
+
+.pop,.big{
+    margin-left: 40px;
+}
+
